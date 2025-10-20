@@ -1,0 +1,60 @@
+svg {
+    width: 100%;
+    height: auto;
+    max-height: 90vh;
+    display: block;
+    margin: 0 auto;
+  }
+
+.label {
+    font-size: 1.8em;
+    font-family: "DM Mono", monospace;
+    dominant-baseline: "middle";
+}
+
+.breadcrumb {
+  font-family: "DM Sans";
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.center-label {
+    font-size: 2.5em;
+    font-family: "DM Mono", monospace;
+}
+
+.sunburst{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.container{flex-basis: 50%;
+max-height: 90vh;
+overflow-y: scroll;
+display: flex;
+flex-direction: column;
+flex-basis: 50%;
+gap: 20px;
+}
+
+.details {display: flex;
+flex-direction: column;
+gap: 5px;}
+
+.details_heading{
+  font-family: "DM Mono", monospace;
+  font-size: 1.8em;
+}
+
+.details_depth{
+  font-family: "DM Sans";
+}
+
+.details_child{
+  font-family: "DM Sans";
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom: solid 1px;
+}
