@@ -31,7 +31,7 @@ svg {
 }
 
 @media screen and (max-width: 767px){
-    .sunburst {flex-direction: column;}
+  .sunburst {flex-direction: column!important}
 }
 
 .container{flex-grow: 1;
