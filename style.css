@@ -27,11 +27,10 @@ svg {
 .sunburst{
   display: flex;
   gap: 30px;
-    font-family: 'DM Sans', sans-serif;
 }
 
-@media screen and (max-width: 767px){
-  .sunburst {flex-direction: column!important}
+@media screen and (max-width: 767px) {
+  .sunburst {flex-direction: column;}
 }
 
 .container{flex-grow: 1;
