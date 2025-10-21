@@ -26,7 +26,6 @@ svg {
 
 .sunburst{
   display: flex;
-  flex-direction: row;
   gap: 30px;
     font-family: 'DM Sans', sans-serif;
 }
