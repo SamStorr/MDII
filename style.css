@@ -28,6 +28,7 @@ svg {
   display: flex;
   flex-direction: row;
   gap: 30px;
+    font-family: 'DM Sans', sans-serif;
 }
 
 @media screen and (max-width: 767px){
