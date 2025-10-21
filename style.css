@@ -30,12 +30,14 @@ svg {
   gap: 30px;
 }
 
-.container{flex-basis: 50%;
+@media screen and (max-width: 767px){
+    .sunburst {flex-direction: column;}
+}
+
+.container{flex-grow: 1;
 max-height: 90vh;
 overflow-y: scroll;
-display: flex;
 flex-direction: column;
-flex-basis: 50%;
 gap: 20px;
 }
 
