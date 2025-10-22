@@ -1,8 +1,8 @@
 ﻿Type,parent,name,description,
 ,,MDII,,
-Megagroup,MDII,Innovation Usage,,
-Megagroup,MDII,Social Consequences,,
-Megagroup,MDII,Stakeholder Relationships,,
+Megagroup,MDII,Innovation Usage,"How accessible and usable are innovations for underrepresented groups, and is there an adequate support ecosystem?",
+Megagroup,MDII,Social Consequences,"To what extent does the innovation have a beneficial impact on underrepresented groups, and does it avoid potential risks and harms?",
+Megagroup,MDII,Stakeholder Relationships,"Was the innovation developed using best practices for ethics and responsible innovation, and is co-creation and inclusive governance part of the process?",
 Dimension,Social Consequences,Beneficial Impact,Evaluates the positive impacts of digital innovations on underrepresented communities.,
 Sub-dimension,Beneficial Impact,Solution Effectiveness,"Measures the overall performance and impact of digital solutions in achieving their intended outcomes for underrepresented communities. Evaluates whether the solutions deliver the desired results, such as improved engagement, usability, or access.",
 Item,Solution Effectiveness,Solution Performance,Assesses the core effectiveness of digital solutions in addressing the specific issues or needs of marginalized users.,
@@ -119,4 +119,5 @@ Item,Desirability,Perceived Value,"Evaluates the value the digital tool can prov
 Sub-dimension,Usage Effectiveness,Usability,"Evaluates how user-friendly and accessible the digital tool is for diverse user groups. This focus on usability ensures that marginalized users can easily navigate and utilize the tools, promoting equitable access to essential agricultural information and resources.",
 Item,Usability,Ease of Use,"Focuses on the clarity of the user interface and the support provided to navigate the tool effectively, promoting a positive user experience. It evaluates how intuitive and user-friendly the digital tool is, accommodating varying levels of digital literacy.",
 Item,Usability,Error Management,"Evaluates how effectively error feedback is communicated to users, ensuring clear guidance for problem resolution during their interaction with the digital tool. This focus on constructive feedback helps users quickly understand and rectify issues, enhancing their overall experience and fostering confidence in using the tool.",
+
 Item,Usability,Performance Efficiency,"Evaluates the effectiveness of the digital tool in executing tasks, emphasizing aspects such as response times, minimal lag, and the number of interactions needed for task completion. This assessment ensures that the user experience is prioritized, enabling smooth, efficient operations that enhance usability and satisfaction.",
