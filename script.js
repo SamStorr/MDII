@@ -44,7 +44,7 @@ const width = 928;
   const radius = width / 14;
   
   // Create the color scale.
-  const baseColors = ["#591FD5", "#067A42", "#37CFFF"];
+  const baseColors = ["#0297A6", "#22AD7A", "#DD9103"];
 const color = d3.scaleOrdinal().range(baseColors);
 
 function getOpacityByDepth(depth) {
