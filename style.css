@@ -33,7 +33,7 @@ svg {
   .sunburst {flex-direction: column;}
 }
 
-.container{flex-grow: 1;
+.container{flex-basis: 50%;
 max-height: 90vh;
 overflow-y: scroll;
 flex-direction: column;
